@@ -148,7 +148,7 @@
                         "marked": "Bu kanal NSFW olarak işaretlenmiştir.",
                         "confirm": "Kanala Gir"
                     },
-                    "confirm": "En az 18 yaşında olduğumu onaylıyorum."
+                    "confirm": "18'den büyük olduğumu onaylıyorum."
                 },
                 "search": {
                     "title": "Ara",
@@ -214,7 +214,7 @@
                     "manage": {
                         "description": "Hesabınızı istediğiniz zaman devre dışı bırakın veya silin. Bu eylem oturumunuzu kapatacak, sohbet geçmişiniz ve arkadaşlarınız da dahil olmak üzere hesabınızı tamamen silecektir.",
                         "title": "Hesap Yönetimi",
-                        "delete": "Hesabın Silinmesi için İşaretle",
+                        "delete": "hesabın Silinmesi için kutucugu İşaretle",
                         "disable": "Hesabı devre dışı bırak"
                     },
                     "unique_id": "Bu, hesabınız için benzersiz bir kullanıcı tanımlayıcısı.",
@@ -442,7 +442,7 @@
                     "title": "İzinler"
                 },
                 "webhooks": {
-                    "title": "Web kancaları"
+                    "title": "Webhooklar"
                 }
             },
             "tips": {
