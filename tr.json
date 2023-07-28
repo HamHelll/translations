@@ -148,7 +148,7 @@
                         "marked": "Bu kanal NSFW olarak işaretlenmiştir.",
                         "confirm": "Kanala Gir"
                     },
-                    "confirm": "18'den büyük olduğumu onaylıyorum."
+                    "confirm": "18 veya Daha büyük olduğumu onaylıyorum."
                 },
                 "search": {
                     "title": "Ara",
@@ -728,8 +728,8 @@
             "feedback": "Revolt'ta geri bildirimde bulun",
             "settings": "Ayarları aç",
             "social": "Sunucuları & Botları Bul",
-            "join-testers": "Test edenler sunucusuna katıl",
-            "goto-testers": "Test edenler sunucusuna git",
+            "join-testers": "Tester sunucusuna katıl",
+            "goto-testers": "Tester sunucusuna git",
             "settings-tooltip": "Ayrıca sol üstteki kullanıcı simgesine sağ tıklayabilirsin veya eğer ana sayfadaysan sol tıklayabilirsin.",
             "directs": "Direkt Mesajlar",
             "join-testers_desc": "Sorunları bildirebilir ve gelişmeleri bizimle doğrudan buradan paylaşabilirsin.",
@@ -788,7 +788,7 @@
         },
         "forgot": "Şifreni mi unuttun?",
         "existing": "Zaten hesabın var mı?",
-        "missing_verification": "Bir eposta almadınız mı?",
+        "missing_verification": "Bir e-posta almadınız mı?",
         "check_spam": "Eğer bulamıyorsanız lütfen spam kutunuzu kontrol edin",
         "open_mail_provider": "{{provider}}'ı açın",
         "email_delay": "Lütfen gelmesi için 10 dakikaya kadar bekleyin.",
@@ -796,7 +796,7 @@
         "subtitle2": "Bir hesap oluştur",
         "subtitle": "Revolt'ta Oturum Aç",
         "welcome": "Hoş geldin!",
-        "unofficial_instance": "Üçüncü-parti örneği.",
+        "unofficial_instance": "Üçüncü parti örneği.",
         "totp": "Kimlik Doğrulama Uygulaması",
         "recovery": "Kurtarma Kodu",
         "verifying_account": "Hesabınız doğrulanıyor…",
@@ -834,7 +834,7 @@
     },
     "error": {
         "NetworkError": "Ağ hatası.",
-        "Unauthorized": "Yetkisiz.",
+        "Unauthorized": "Yetersiz Yetkilendirme",
         "Unlabelled": "Bir şey oldu.",
         "FailedValidation": "Alanlar doğrulanamadı.",
         "DatabaseError": "Veri tabanı hatası.",
